@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanSchartwch123
-- 👀 I’m interested in ...the programtion creative in JAVASCRPI
+- 👀 I’m interested in ...the programtion creative in JAVASCRIPT 
 - 🌱 I’m currently learning ...to big three how will be: PHYTON, JAVA and C. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
